@@ -118,6 +118,7 @@ hr {
   display: inline-block;
   font-size: 16px;
   cursor: pointer;
+  box-shadow: 0px 2px 3px 0px #1b69c0;
 }
 
 .content-notfunny {
@@ -133,6 +134,7 @@ hr {
   display: inline-block;
   font-size: 16px;
   cursor: pointer;
+  box-shadow: 0px 2px 3px 0px #16994e;
 }
 
 .footer {
