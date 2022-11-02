@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Annociu/training-text.git/static/css/main.dbcbe469.css",
+    "main.js": "/Annociu/training-text.git/static/js/main.41841fa2.js",
+    "static/media/avatar.jpeg": "/Annociu/training-text.git/static/media/avatar.3c4acbcf037c2c9cbaba.jpeg",
+    "static/media/logo.png": "/Annociu/training-text.git/static/media/logo.c6fe950cc4793374aeed.png",
+    "index.html": "/Annociu/training-text.git/index.html",
+    "main.dbcbe469.css.map": "/Annociu/training-text.git/static/css/main.dbcbe469.css.map",
+    "main.41841fa2.js.map": "/Annociu/training-text.git/static/js/main.41841fa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbcbe469.css",
+    "static/js/main.41841fa2.js"
+  ]
+}
