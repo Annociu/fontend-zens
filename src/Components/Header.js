@@ -12,7 +12,7 @@ function Header() {
             <span>An HLS</span>
             </div>
             <img className="header-avatar" src={Avatar} alt="demo" />
-        </div>sdfs
+        </div>
     </div>
     );
 };
